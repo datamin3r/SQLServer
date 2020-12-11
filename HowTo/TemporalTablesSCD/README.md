@@ -1,6 +1,6 @@
 # Temporal Table SCD
 
-Temporal Tables offer an easier route to capturing data changes. There are a few steps required to shape the data ready for ingestion into a multidiemsional Tabular model. 
+Temporal Tables offer an easier route to capturing data changes as [1](https://www.timmitchell.net/post/2019/04/02/using-temporal-tables-for-slowly-changing-dimensions/) and [2](https://www.sqlservercentral.com/articles/slowly-changing-dimensions-using-t-sql-merge) find. There are a few steps required to shape the data ready for ingestion into a multidiemsional Tabular model. 
 In this article a simple toy Client example is used to show one possible execution.
 
 ## Client Report
