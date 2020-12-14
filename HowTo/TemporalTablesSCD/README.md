@@ -11,5 +11,8 @@ Resulting report showing client currrent and history
 ## Tabular Model
 Simple model with Factless fact table and associated dimensions
 
-![Model](scdTeprlTabsPbiMdl.PNG)
+![Model SSAS](scdTeprlTabsPbiMdlSSAS.PNG)
 
+The above example show an SSAS Tabular model which is imported into Power BI Desktop. The model can also be creted in Power BI Desktop from imported SQL dimension and fact views 
+
+![Model](scdTeprlTabsPbiMdl.PNG)
