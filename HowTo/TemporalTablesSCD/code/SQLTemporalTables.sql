@@ -12,7 +12,7 @@ BEGIN
 	BEGIN
 		IF  NOT EXISTS (SELECT 1 FROM sys.tables  WHERE name = 'DimClient_History') 
 	
-			CREATE TABLE [dbo].[DimClient_History1](
+			CREATE TABLE [dbo].[DimClient_History](
 				[ClientKey] [int] NOT NULL,
 				[ClientCode] [int] NOT NULL,
 				[ClientName] [nvarchar](150) NULL,
