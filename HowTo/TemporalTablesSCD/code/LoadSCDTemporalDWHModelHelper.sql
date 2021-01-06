@@ -3,13 +3,6 @@
 *
 */
 
-CREATE TABLE [dbo].[FactTrade] (
-    [FactKey]           INT             IDENTITY (1, 1) NOT NULL,
-    [TradeCode]         INT             NOT NULL,
-	[CustomerKey]       INT             NOT NULL,
-    [TradeCount]        INT             NOT NULL,
-    CONSTRAINT [PK_FactTrade] PRIMARY KEY CLUSTERED ([FactKey] ASC)
-);
 
 SELECT * FROM Client
 
