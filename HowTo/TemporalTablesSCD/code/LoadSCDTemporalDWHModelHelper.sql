@@ -1,3 +1,8 @@
+/**
+* Helper SQL snippets
+*
+*/
+
 CREATE TABLE [dbo].[FactTrade] (
     [FactKey]           INT             IDENTITY (1, 1) NOT NULL,
     [TradeCode]         INT             NOT NULL,
