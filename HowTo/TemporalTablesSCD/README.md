@@ -13,6 +13,6 @@ Simple model with Factless fact table and associated dimensions
 
 ![Model SSAS](scdTeprlTabsPbiMdlSSAS.PNG)
 
-The above example shows a SSAS Tabular model which is imported into Power BI Desktop. The model can also be creted in Power BI Desktop from imported SQL dimension and fact views 
+The above example shows a SSAS Tabular model which is imported into Power BI Desktop. The model can also be created in Power BI Desktop from imported SQL dimension and fact views 
 
 ![Model](scdTeprlTabsPbiMdl.PNG)
