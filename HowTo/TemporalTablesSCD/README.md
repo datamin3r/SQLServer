@@ -6,7 +6,7 @@ In this article a simple toy Client example is used to show one possible executi
 ## Client Report
 Resulting report showing client currrent and history 
 
-![Power BI Client Report](scdTeprlTabsPbi.PNG)
+![Power BI Client Report](./images/scdTeprlTabsPbi.PNG)
 
 ## Tabular Model
 Simple model with Factless fact table and associated dimensions
